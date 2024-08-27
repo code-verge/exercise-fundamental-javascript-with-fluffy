@@ -115,7 +115,8 @@ Print the following message to the console:
 “Is Fluffy a senior dog?” followed by the value of `isFluffySenior` .
 2. Create a new variable called `fluffyName` and set it to “FLUFFY”.
 3. Use a comparison operator to check if `fluffyName` is exactly equal to “FLUFFY” (remember, this is case sensitive). Store the result in a boolean variable called `isExactMatch` .
-4. Create a new variable called `fluffyEnergyLevel` and set it equal to 8. Write an `if` statement to check if Fluffy needs a walk. If fluffy’s energy level is greater than 7, print a message to the console to take him for a walk.
+4. Create a new variable called `fluffyEnergyLevel` and set it equal to 8. 
+Write an `if` statement to check if Fluffy needs a walk. If fluffy’s energy level is greater than 7, print a message to the console to take him for a walk.
 5. Create a variable called `weatherCondition` and set it equal to “rainy”.  Determine what activity fluffy should do based on the weather using an `if-else if-else` statement.
 
 If the `weatherCondition` is “sunny”, print “Take fluffy to the park!”.
@@ -137,13 +138,13 @@ Use a `do…while` loop to give Fluffy treats. In each iteration, increment `tre
 Use a `switch` statement to determine Fluffy's meal for the day.
 For each day, print: "Fluffy's [day] meal: [meal]"
 
-◦	Monday: Chicken
-◦	Tuesday: Beef
-◦	Wednesday: Fish
-◦	Thursday: Turkey
-◦	Friday: Veggie Mix
-◦	Saturday and Sunday: Special Weekend Blend
-◦	For any other day: Kibble
+- Monday: Chicken
+- Tuesday: Beef
+- Wednesday: Fish
+- Thursday: Turkey
+- Friday: Veggie Mix
+- Saturday and Sunday: Special Weekend Blend
+- For any other day: Kibble
 
 ## Submission
 
