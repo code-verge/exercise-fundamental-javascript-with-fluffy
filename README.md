@@ -60,7 +60,7 @@ Complete the following tasks to complete this exercise:
 
 ### Task 1: Variables
 
-1. There's a beautiful Golden Retriever walking around but we have no idea what it's called... Create a variable `dog` which we can update later, if we ever find out the name. 
+1. There's a beautiful Golden Retriever walking around but we have no idea what it's called... Create a variable `dog` which we can update later, if we ever find out the name.
 Use `let` for this variable.
 2. The dog is called Fluffy! Update `dog` to reflect this.
 3. Fluffy just turned double figures! Create a new variable `age` to reflect this. 
@@ -70,7 +70,7 @@ Use `let` for this variable as well.
 5. We've just learnt that Fluffy's breed will never change. 
 Create a constant `breed` and set it to "Golden Retriever".
 6. Oops, looks like they miscalculated and got the age wrong! 
-Fluffy is actually 11 years old. Update Fluffy’s `age` .
+Fluffy is actually 11 years old. Update Fluffy’s `age`
 7. Print a new message to the console using all three variables:
 "Fluffy is an 11-year-old Golden Retriever.
 
