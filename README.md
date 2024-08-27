@@ -23,10 +23,10 @@ In this exercise, we'll be working with our furry friend Fluffy, a lovable & ene
 
 Through Fluffy's daily adventures, we'll explore various JavaScript concepts including:
 
-•	Variables and primitive data types
-•	Basic operators
-•	Conditional statements (if-else)
-•	Loops (for, while, do-while)
+- Variables and primitive data types
+- Basic operators
+- Conditional statements (if-else)
+- Loops (for, while, do-while)
 
 Remember, coding is a skill that improves with practice. Don't worry if you find some tasks challenging at first – that's all part of the learning process! Feel free to refer back to the lessons, or ask for help if you get stuck.
 
@@ -37,7 +37,7 @@ Let's dive in and start coding! 👨🏻‍💻
 
 Follow these steps to begin to begin your development journey:
 
-1. [Fork this Repository](https://github.com/code-verge/exercise-create-a-tribute-page-using-HTML)
+1. Fork the repo.
 2. Clone the Repository to your Computer
 3. Open the Repository in VS Code
 4. Start the Live Server in VS Code
@@ -153,7 +153,7 @@ When you’ve completed the exercise:
 
 ```jsx
 git add .
-git commit -m "Completed Fundamental JavaScript wi"
+git commit -m "Completed Fundamental JavaScript with Fluffy"
 git push origin main
 ```
 
