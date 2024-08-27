@@ -133,7 +133,8 @@ If `isHungry` is `false` , print “Indoor playtime for Fluffy!”.
 
 1. Create a `for` loop that runs 7 times, representing the 7 days of the week. For each iteration, print: “Day [number]: Fluffy wakes up, eats, plays, and sleeps!”
 2. Create a variable `treatsGiven` and set it to 0 and a variable `maxTreats` and set it to 3.
-Use a `do…while` loop to give Fluffy treats. In each iteration, increment `treatsGiven` by 1 and print “Fluffy says: Woof! Thanks for treat #`treatsGiven` ”. Continue the loop while `treatsGiven` is less than `maxTreats` .
+Use a `do…while` loop to give Fluffy treats. In each iteration, increment `treatsGiven` by 1 and print “Fluffy says: Woof! Thanks for treat #`treatsGiven` ”. 
+Continue the loop while `treatsGiven` is less than `maxTreats` .
 3. Create a variable `dayOfWeek` and set it to "Wednesday".
 Use a `switch` statement to determine Fluffy's meal for the day.
 For each day, print: "Fluffy's [day] meal: [meal]"
