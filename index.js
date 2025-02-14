@@ -1,5 +1,7 @@
 // Task 1: Variables
-
+let fluffy = "Fluffy";
+let age = 3;
+let isCute = true;
 
 
 // Task 2: Primitive Data Types
